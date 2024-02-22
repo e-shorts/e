@@ -1,6 +1,6 @@
 {
   "status": "on",
-  "notice": "Sevidor está em manutenção e sobrecarregado!!! Estamos tentando resolver mais rápido possível...",
+  "notice": "NetCine Plus - v7.0",
   "wallpaper": "https://vizertv.in/content/movies/background/1280/40155.webp",
   "name": "Aquaman 2: O Reino Perdido",
   "link": "https://vizertv.in/filme/online/aquaman-2-o-reino-perdido",
@@ -10,7 +10,7 @@
   "image": "https://vizertv.in//content/movies/posterPt/342/40155.webp",
   "isMovie": true,
   "active": true,
-  "version": 20,
+  "version": 50,
   "minimumVersion": 10,
-  "linkVersion": "https://www.mediafire.com/file/4mfmet2kk971qhj/NetCinePlus-CORRECAO-DOWNLOADS.apk/file"
+  "linkVersion": "https://www.mediafire.com/file/s5y1nbim8bcyoq1/NetCine_Plus_v7-0.apk/file"
 }
