@@ -11,5 +11,6 @@
   "isMovie": true,
   "active": true,
   "version": 10,
+  "minimumVersion": 8,
   "linkVersion": "https://adapter.com"
 }
