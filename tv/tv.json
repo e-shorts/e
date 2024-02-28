@@ -1,0 +1,587 @@
+[
+  {
+    "name": "AMC",
+    "url": "https://superflixapi.top/tv/amc",
+    "img": "httpebp"
+  },
+  {
+    "name": "Animal Planet",
+    "url": "https://superflixapi.top/tv/animal-planet",
+    "img": "httpebp"
+  },
+  {
+    "name": "AnimeTV",
+    "url": "https://superflixapi.top/tv/animetv",
+    "img": "httbp"
+  },
+  {
+    "name": "Arte1",
+    "url": "https://superflixapi.top/tv/arte1",
+    "img": "httpebp"
+  },
+  {
+    "name": "AXN",
+    "url": "https://superflixapi.top/tv/axn",
+    "img": "httwebp"
+  },
+  {
+    "name": "A Fazenda",
+    "url": "https://superflixapi.top/tv/a-fazenda",
+    "img": "httpebp"
+  },
+  {
+    "name": "A Fazenda 2",
+    "url": "https://superflixapi.top/tv/a-fazenda-2",
+    "img": "httpebp"
+  },
+  {
+    "name": "A&E",
+    "url": "https://superflixapi.top/tv/ae",
+    "img": "httpebp"
+  },
+  {
+    "name": "BBB 24",
+    "url": "https://superflixapi.top/tv/bbb-24",
+    "img": "httwebp"
+  },
+  {
+    "name": "Band",
+    "url": "https://superflixapi.top/tv/band",
+    "img": "httpebp"
+  },
+  {
+    "name": "Band News",
+    "url": "https://superflixapi.top/tv/band-news",
+    "img": "httpebp"
+  },
+  {
+    "name": "Band Sports",
+    "url": "https://superflixapi.top/tv/band-sports",
+    "img": "httwebp"
+  },
+  {
+    "name": "BIS",
+    "url": "https://superflixapi.top/tv/bis",
+    "img": "httwebp"
+  },
+  {
+    "name": "Canal Brasil",
+    "url": "https://superflixapi.top/tv/canal-brasil",
+    "img": "httpebp"
+  },
+  {
+    "name": "Canal Off",
+    "url": "https://superflixapi.top/tv/canal-off",
+    "img": "httpebp"
+  },
+  {
+    "name": "Canal Sony",
+    "url": "https://superflixapi.top/tv/canal-sony",
+    "img": "httpebp"
+  },
+  {
+    "name": "Canção Nova",
+    "url": "https://superflixapi.top/tv/cancao-nova",
+    "img": "httpebp"
+  },
+  {
+    "name": "Cartoon Network",
+    "url": "https://superflixapi.top/tv/cartoon-network",
+    "img": "httpebp"
+  },
+  {
+    "name": "Cartoonito",
+    "url": "https://superflixapi.top/tv/cartoonito",
+    "img": "httpebp"
+  },
+  {
+    "name": "CineCanal",
+    "url": "https://superflixapi.top/tv/cinecanal",
+    "img": "httpebp"
+  },
+  {
+    "name": "Cinemax",
+    "url": "https://superflixapi.top/tv/cinemax",
+    "img": "httpebp"
+  },
+  {
+    "name": "CNN Brasil",
+    "url": "https://superflixapi.top/tv/cnn-brasil",
+    "img": "httpebp"
+  },
+  {
+    "name": "Combate",
+    "url": "https://superflixapi.top/tv/combate",
+    "img": "httpebp"
+  },
+  {
+    "name": "Comedy Central",
+    "url": "https://superflixapi.top/tv/comedy-central",
+    "img": "httpebp"
+  },
+  {
+    "name": "Curta!",
+    "url": "https://superflixapi.top/tv/curta",
+    "img": "httpebp"
+  },
+  {
+    "name": "Discovery - ID",
+    "url": "https://superflixapi.top/tv/id-discovery",
+    "img": "httpebp"
+  },
+  {
+    "name": "Discovery Channel",
+    "url": "https://superflixapi.top/tv/discovery-channel",
+    "img": "httpebp"
+  },
+  {
+    "name": "Discovery Home & Health",
+    "url": "https://superflixapi.top/tv/discovery-home-health",
+    "img": "httpebp"
+  },
+  {
+    "name": "Discovery Kids",
+    "url": "https://superflixapi.top/tv/discovery-kids",
+    "img": "httpebp"
+  },
+  {
+    "name": "Discovery Science",
+    "url": "https://superflixapi.top/tv/discovery-science",
+    "img": "httpebp"
+  },
+  {
+    "name": "Discovery Theater",
+    "url": "https://superflixapi.top/tv/discovery-theater",
+    "img": "httpebp"
+  },
+  {
+    "name": "Discovery Turbo",
+    "url": "https://superflixapi.top/tv/discovery-turbo",
+    "img": "httpebp"
+  },
+  {
+    "name": "Discovery World",
+    "url": "https://superflixapi.top/tv/discovery-world",
+    "img": "httpebp"
+  },
+  {
+    "name": "Disney Channel",
+    "url": "https://superflixapi.top/tv/disney-channel",
+    "img": "httpebp"
+  },
+  {
+    "name": "ESPN",
+    "url": "https://superflixapi.top/tv/espn",
+    "img": "httpebp"
+  },
+  {
+    "name": "ESPN EXTRA",
+    "url": "https://superflixapi.top/tv/espn-extra",
+    "img": "httwebp"
+  },
+  {
+    "name": "ESPN 2",
+    "url": "https://superflixapi.top/tv/espn-2",
+    "img": "https://github.com/e-shorts/e/blob/main/tv/icons/espn_2.png?raw=true"
+  },
+  {
+    "name": "ESPN 3",
+    "url": "https://superflixapi.top/tv/espn-3",
+    "img": "httwebp"
+  },
+  {
+    "name": "ESPN 4",
+    "url": "https://superflixapi.top/tv/espn-4",
+    "img": "httbp"
+  },
+  {
+    "name": "E! Entertainment Television",
+    "url": "https://superflixapi.top/tv/e-entertainment-television",
+    "img": "httpebp"
+  },
+  {
+    "name": "Food Network",
+    "url": "https://superflixapi.top/tv/food-network",
+    "img": "httpebp"
+  },
+  {
+    "name": "Fox Sports 2",
+    "url": "https://superflixapi.top/tv/fox-sports-2",
+    "img": "https"
+  },
+  {
+    "name": "FX",
+    "url": "https://superflixapi.top/tv/fx",
+    "img": "httpebp"
+  },
+  {
+    "name": "GNT",
+    "url": "https://superflixapi.top/tv/gnt",
+    "img": "httpebp"
+  },
+  {
+    "name": "Gloob",
+    "url": "https://superflixapi.top/tv/gloob",
+    "img": "httpebp"
+      },
+  {
+    "name": "Gloobinho",
+    "url": "https://superflixapi.top/tv/gloobinho",
+    "img": "httpebp"
+  },
+  {
+    "name": "Globo MG",
+    "url": "https://superflixapi.top/tv/globo-mg",
+    "img": "httpebp"
+  },
+  {
+    "name": "Globo News",
+    "url": "https://superflixapi.top/tv/globo-news",
+    "img": "httpebp"
+  },
+  {
+    "name": "Globo RJ",
+    "url": "https://superflixapi.top/tv/globo-rj",
+    "img": "httpebp"
+      },
+  {
+    "name": "Globo SP",
+    "url": "https://superflixapi.top/tv/globo-sp",
+    "img": "httpebp"
+  },
+  {
+    "name": "HBO",
+    "url": "https://superflixapi.top/tv/hbo",
+    "img": "httpebp"
+  },
+  {
+    "name": "HBO 2",
+    "url": "https://superflixapi.top/tv/hbo-2",
+    "img": "httpebp"
+  },
+  {
+    "name": "HBO Family",
+    "url": "https://superflixapi.top/tv/hbo-family",
+    "img": "httpebp"
+  },
+  {
+    "name": "HBO Mundi",
+    "url": "https://superflixapi.top/tv/hbo-mundi",
+    "img": "httpebp"
+  },
+  {
+    "name": "HBO Plus",
+    "url": "https://superflixapi.top/tv/hbo-plus",
+    "img": "httpebp"
+  },
+  {
+    "name": "HBO Pop",
+    "url": "https://superflixapi.top/tv/hbo-pop",
+    "img": "httpebp"
+  },
+  {
+    "name": "HBO Signature",
+    "url": "https://superflixapi.top/tv/hbo-signature",
+    "img": "httpebp"
+  },
+  {
+    "name": "HBO Xtreme",
+    "url": "https://superflixapi.top/tv/hbo-xtreme",
+    "img": "httpebp"
+  },
+  {
+    "name": "History Channel",
+    "url": "https://superflixapi.top/tv/history-channel",
+    "img": "httpebp"
+  },
+  {
+    "name": "HGTV",
+    "url": "https://superflixapi.top/tv/hgtv",
+    "img": "httpebp"
+  },
+  {
+    "name": "H2",
+    "url": "https://superflixapi.top/tv/h2",
+    "img": "httpebp"
+  },
+  {
+    "name": "Lifetime",
+    "url": "https://superflixapi.top/tv/lifetime",
+    "img": "httpebp"
+  },
+  {
+    "name": "Megapix",
+    "url": "https://superflixapi.top/tv/megapix",
+    "img": "httpebp"
+  },
+  {
+    "name": "Modo Viagem",
+    "url": "https://superflixapi.top/tv/modo-viagem",
+    "img": "httpebp"
+  },
+  {
+    "name": "MTV",
+    "url": "https://superflixapi.top/tv/mtv",
+    "img": "httpebp"
+  },
+  {
+    "name": "MTV Live",
+    "url": "https://superflixapi.top/tv/mtv-live",
+    "img": "httpebp"
+  },
+  {
+    "name": "Multishow",
+    "url": "https://superflixapi.top/tv/multishow",
+    "img": "httpebp"
+  },
+  {
+    "name": "National Geographic Channel",
+    "url": "https://superflixapi.top/tv/national-geographic-channel",
+    "img": "httpebp"
+  },
+  {
+    "name": "NBA League Pass",
+    "url": "https://superflixapi.top/tv/nba-league-pass",
+    "img": "httpebp"
+  },
+  {
+    "name": "Nick Jr.",
+    "url": "https://superflixapi.top/tv/nick-jr",
+    "img": "httpebp"
+  },
+  {
+    "name": "Nickelodeon",
+    "url": "https://superflixapi.top/tv/nickelodeon",
+    "img": "httpebp"
+  },
+  {
+    "name": "Paramount Channel",
+    "url": "https://superflixapi.top/tv/paramount-channel",
+    "img": "httpebp"
+  },
+  {
+    "name": "Paramount+ 1",
+    "url": "https://superflixapi.top/tv/paramount-1",
+    "img": "httpebp"
+  },
+  {
+    "name": "Paramount+ 2",
+    "url": "https://superflixapi.top/tv/paramount-2",
+    "img": "httpebp"
+  },
+  {
+    "name": "Paramount+ 3",
+    "url": "https://superflixapi.top/tv/paramount-3",
+    "img": "httpebp"
+  },
+  {
+    "name": "Paramount+ 4",
+    "url": "https://superflixapi.top/tv/paramount-4",
+    "img": "httpebp"
+  },
+  {
+    "name": "Premiere Clubes",
+    "url": "https://superflixapi.top/tv/premiere-clubes",
+    "img": "httpebp"
+  },
+  {
+    "name": "Premiere 2",
+    "url": "https://superflixapi.top/tv/premiere-2",
+    "img": "httpebp"
+  },
+  {
+    "name": "Premiere 3",
+    "url": "https://superflixapi.top/tv/premiere-3",
+    "img": "httpebp"
+  },
+  {
+    "name": "Premiere 4",
+    "url": "https://superflixapi.top/tv/premiere-4",
+    "img": "httbp"
+  },
+  {
+    "name": "Premiere 5",
+    "url": "https://superflixapi.top/tv/premiere-5",
+    "img": "httwebp"
+  },
+  {
+    "name": "Premiere 6",
+    "url": "https://superflixapi.top/tv/premiere-6",
+    "img": "httpebp"
+  }, 
+  {
+    "name": "Premiere 7",
+    "url": "https://superflixapi.top/tv/premiere-7",
+    "img": "httbp"
+  },
+  {
+    "name": "Premiere 8",
+    "url": "https://superflixapi.top/tv/premiere-8",
+    "img": "httwebp"
+  },
+  {
+    "name": "Prime Video 1",
+    "url": "https://superflixapi.top/tv/prime-video-1",
+    "img": "httpebp"
+  }, 
+  {
+    "name": "Prime Video 2",
+    "url": "https://superflixapi.top/tv/prime-video-2",
+    "img": "httpebp"
+  }, 
+  {
+    "name": "Prime Video 3",
+    "url": "https://superflixapi.top/tv/prime-video-3",
+    "img": "httpebp"
+  }, 
+  {
+    "name": "Prime Video 4",
+    "url": "https://superflixapi.top/tv/prime-video-4",
+    "img": "httpebp"
+  }, 
+  {
+    "name": "Record News",
+    "url": "https://superflixapi.top/tv/record-news",
+    "img": "httpebp"
+  }, 
+  {
+    "name": "Record TV",
+    "url": "https://superflixapi.top/tv/record-tv",
+    "img": "httpebp"
+  }, 
+  {
+    "name": "RedeTV",
+    "url": "https://superflixapi.top/tv/redetv",
+    "img": "httpebp"
+  }, 
+  {
+    "name": "SBT",
+    "url": "https://superflixapi.top/tv/sbt",
+    "img": "httpebp"
+  },
+  {
+    "name": "Space",
+    "url": "https://superflixapi.top/tv/space",
+    "img": "https"
+  },
+  {
+    "name": "SporTV",
+    "url": "https://superflixapi.top/tv/sportv",
+    "img": "http"
+  },
+  {
+    "name": "SporTV 2",
+    "url": "https://superflixapi.top/tv/sportv-2",
+    "img": "https"
+  },
+  {
+    "name": "SporTV 3",
+    "url": "https://superflixapi.top/tv/sportv-3",
+    "img": "https"
+  },
+  {
+    "name": "Star Channel",
+    "url": "https://superflixapi.top/tv/star-channel",
+    "img": "https"
+  },
+  {
+    "name": "Star+ 1",
+    "url": "https://superflixapi.top/tv/star-1",
+    "img": "https"
+  },
+  {
+    "name": "Star+ 2",
+    "url": "https://superflixapi.top/tv/star-2",
+    "img": "https"
+  },
+  {
+    "name": "Star+ 3",
+    "url": "https://superflixapi.top/tv/star-3",
+    "img": "httpebp"
+  },
+  {
+    "name": "Star+ 4",
+    "url": "https://superflixapi.top/tv/star-4",
+    "img": "https"
+  },
+  {
+    "name": "Starplus Eventos",
+    "url": "https://superflixapi.top/tv/starplus-eventos",
+    "img": "httpebp"
+  },
+  {
+    "name": "Studio Universal",
+    "url": "https://superflixapi.top/tv/studio-universal",
+    "img": "httwebp"
+  },
+  {
+    "name": "Syfy",
+    "url": "https://superflixapi.top/tv/syfy",
+    "img": "httbp"
+  },
+  {
+    "name": "TCM",
+    "url": "https://superflixapi.top/tv/tcm",
+    "img": "httpebp"
+  },
+  {
+    "name": "Telecine Action",
+    "url": "https://superflixapi.top/tv/telecine-action",
+    "img": "httpebp"
+  },
+  {
+    "name": "Telecine Cult",
+    "url": "https://superflixapi.top/tv/telecine-cult",
+    "img": "httpebp"
+  },
+  {
+    "name": "Telecine Fun",
+    "url": "https://superflixapi.top/tv/telecine-fun",
+    "img": "httpebp"
+  },
+  {
+    "name": "Telecine Pipoca",
+    "url": "https://superflixapi.top/tv/telecine-pipoca",
+    "img": "httpebp"
+  },
+  {
+    "name": "Telecine Premium",
+    "url": "https://superflixapi.top/tv/telecine-premium",
+    "img": "httpebp"
+  },
+  {
+    "name": "Telecine Touch",
+    "url": "https://superflixapi.top/tv/telecine-touch",
+    "img": "httpebp"
+  },
+  {
+    "name": "TLC",
+    "url": "https://superflixapi.top/tv/tlc",
+    "img": "httpebp"
+  }, 
+  {
+    "name": "TNT",
+    "url": "https://superflixapi.top/tv/tnt",
+    "img": "https"
+  },
+  {
+    "name": "TNT Novelas",
+    "url": "https://superflixapi.top/tv/tnt-novelas",
+    "img": "https"
+  },
+  {
+    "name": "TNT Series",
+    "url": "https://superflixapi.top/tv/tnt-series",
+    "img": "httwebp"
+  },
+  {
+    "name": "TruTV",
+    "url": "https://superflixapi.top/tv/trutv",
+    "img": "httpebp"
+  }, 
+  {
+    "name": "TV Rá-Tim-Bum",
+    "url": "https://superflixapi.top/tv/tv-ra-tim-bum",
+    "img": "httpebp"
+  } 
+]
