@@ -10,6 +10,7 @@
   "image": "https://vizertv.in/content/series/posterPt/342/22636.webp",
   "isMovie": false,
   "active": true,
+  "server": true,
   "version": 10,
   "minimumVersion": 8,
   "linkVersion": "https://adapter.com"
