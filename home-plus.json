@@ -1,6 +1,6 @@
 {
   "status": "on",
-  "notice": "NetCine Plus - v7.1 - NOVO PLAYER, MAIS DE 100 CANAIS DE TV AO VIVO, CORREÇÕES E MELHORIAS.",
+  "notice": "NetCine Plus - v7.1 - CORREÇÕES DOS CÓDIGOS DE ERROS J-1 E P-1, NOVO PLAYER, MAIS DE 100 CANAIS DE TV AO VIVO, CORREÇÕES E MELHORIAS.",
   "wallpaper": "https://vizertv.in/content/series/background/1280/22636.webp",
   "name": "Avatar: O Último Mestre do Ar",
   "link": "https://vizertv.in/serie/online/avatar-o-ltimo-mestre-do-ar",
@@ -10,7 +10,7 @@
   "image": "https://vizertv.in/content/series/posterPt/342/22636.webp",
   "isMovie": false,
   "active": true,
-  "version": 60,
+  "version": 65,
   "minimumVersion": 50,
-  "linkVersion": "https://www.mediafire.com/file/5xn4mne6rq61ahj/NetCine_Plus_-_v7-1.apk/file"
+  "linkVersion": "https://www.mediafire.com/file/mvdke688kutqi6f/NetCine_Plus.apk/file"
 }
