@@ -1,6 +1,6 @@
 {
   "status": "on",
-  "notice": "Sevidor está em manutenção!!! Aguarde...",
+  "notice": "Devido a uma instabilidade na versão atual, será necessário atualizar o aplicativo para versão mais recente...",
   "wallpaper": "https://vizertv.in/content/series/background/1280/22636.webp",
   "name": "Avatar: O Último Mestre do Ar",
   "link": "https://vizertv.in/serie/online/avatar-o-ltimo-mestre-do-ar",
@@ -11,7 +11,7 @@
   "isMovie": false,
   "active": true,
   "server": true,
-  "version": 10,
-  "minimumVersion": 8,
-  "linkVersion": "https://adapter.com"
+  "version": 87,
+  "minimumVersion": 87,
+  "linkVersion": "https://play.google.com/store/apps/details?id=com.mwd.e_playtv"
 }
