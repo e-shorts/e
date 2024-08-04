@@ -1,6 +1,6 @@
 {
   "status": "on",
-  "notice": "Devido a uma instabilidade na versão atual, será necessário atualizar o aplicativo para a versão mais recente. Ainda há algumas pequenas falhas que estamos resolvendo...\n\nClique em -Atualizar- abaixo para ser encaminhado para o Google Play e aproveita nós ajudando com 5 estrelas :)",
+  "notice": "Devido a uma instabilidade na versão atual, recomendamos atualizar o aplicativo para a versão mais recente. Como o aplicativo foi removido do Google Play será nescessário Instalar o novo aplicativo em formato APK, chamado NetCine Plus!!! Eles são exatamente os mesmos, apenas com nomes diferentes.",
   "wallpaper": "https://vizertv.in/content/series/background/1280/22636.webp",
   "name": "Avatar: O Último Mestre do Ar",
   "link": "https://vizertv.in/serie/online/avatar-o-ltimo-mestre-do-ar",
@@ -11,7 +11,7 @@
   "isMovie": false,
   "active": true,
   "server": true,
-  "version": 87,
-  "minimumVersion": 87,
-  "linkVersion": "https://play.google.com/store/apps/details?id=com.mwd.e_playtv"
+  "version": 1000,
+  "minimumVersion": 10,
+  "linkVersion": "https://www.mediafire.com/file/pwwoiycys6nr66c/NetCine+Plus+-+120.apk/file"
 }
