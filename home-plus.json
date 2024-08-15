@@ -1,6 +1,6 @@
 {
   "status": "on",
-  "notice": "NetCine Plus - build-120\n\n*Correção dos players.\n*Correções e melhorias em canais.\n*Correções de bugs e novas melhorias.",
+  "notice": "NetCine Plus - build-125\n\n*Apenas correção no servidor de animes.",
   "wallpaper": "https://vizertv.in/content/series/background/1280/22636.webp",
   "name": "Avatar: O Último Mestre do Ar",
   "link": "https://vizertv.in/serie/online/avatar-o-ltimo-mestre-do-ar",
@@ -12,5 +12,5 @@
   "active": true,
   "version": 120,
   "minimumVersion": 80,
-  "linkVersion": "https://www.mediafire.com/file/pwwoiycys6nr66c/NetCine+Plus+-+120.apk/file"
+  "linkVersion": "https://www.mediafire.com/file/ps6xh5jnue0me6t/NetCinePlus_125.apk/file"
 }
