@@ -6,8 +6,8 @@
   "video": "359052",
   "image": "https://cdn.anicdn.net/media/categories/video/9115c0b3bac60336151b483fc4594afb.jpg",
   "status": "on",
-  "notice": "O problema foi corrido, adicionei alguns novos ajustes para evitar o mal funcionamento e agora o servidor de animes está funcionando como antes. Pelo menos por enquanto...",
-  "version": 150,
+  "notice": "NetCine Plus - build-160\n\n*Menos anúncios, 1 anúncio no máximo a cada 10 minutos (Apenas para o Player, o Chromecast e Download não haverá limite).\n*Melhorias e correções.",
+  "version": 160,
   "minimumVersion": 100,
-  "linkVersion": "https://www.mediafire.com/file/8a70kv16bwrwrun/NetCine_Plus_-_150.apk/file"
+  "linkVersion": "https://www.mediafire.com/file/oxgck9fjf64lbu9/NetCine_Plus_-_160.apk/file"
 }
