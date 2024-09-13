@@ -1,6 +1,6 @@
 {
   "status": "on",
-  "notice": "NetCine Plus - build-160\n\n*Menos anúncios, 1 anúncio no máximo a cada 10 minutos (Apenas para o Player, o Chromecast e Download não haverá limite).\n*Melhorias e correções.",
+  "notice": "NetCine Plus - build-175\n\n*Correções no server 1.\n*Correções no server 2.\n*Outras melhorias e correções.",
   "wallpaper": "https://vizertv.in/content/series/background/1280/22636.webp",
   "name": "Avatar: O Último Mestre do Ar",
   "link": "https://vizertv.in/serie/online/avatar-o-ltimo-mestre-do-ar",
@@ -10,7 +10,7 @@
   "image": "https://vizertv.in/content/series/posterPt/342/22636.webp",
   "isMovie": false,
   "active": true,
-  "version": 160,
+  "version": 175,
   "minimumVersion": 100,
-  "linkVersion": "https://www.mediafire.com/file/oxgck9fjf64lbu9/NetCine_Plus_-_160.apk/file"
+  "linkVersion": "https://www.mediafire.com/file/zv642zv0symbp37/NetCine_Plus_175.apk/file"
 }
