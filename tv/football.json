@@ -1,52 +1,122 @@
 [
-    {
-        "popular": 1,
-        "teamHome": "Villarreal",
-        "teamVisiting": "Leganés",
-        "timestamp": "1747242000000",
-        "info": "Espanha, LaLiga: Rodada 36",
-        "teamHomeImg": "https://img.sofascore.com/api/v1/team/2819/image",
-        "teamVisitingImg": "https://img.sofascore.com/api/v1/team/2845/image",
-        "link": "https://sportzonline.si/channels/bra/br4.php"
-    },
-    {
-        "popular": 2,
-        "teamHome": "Milan",
-        "teamVisiting": "Bologna",
-        "timestamp": "1747249200000",
-        "info": "Itália, Copa Itália: Final",
-        "teamHomeImg": "https://img.sofascore.com/api/v1/team/2685/image",
-        "teamVisitingImg": "https://img.sofascore.com/api/v1/team/2692/image",
-        "link": "https://sportzonline.si/channels/bra/br5.php"
-    },
-    {
-        "popular": 0,
-        "teamHome": "Groningen",
-        "teamVisiting": "Groningen",
-        "timestamp": "1747245600000",
-        "info": "Holanda, Eredivisie: Rodada 33",
-        "teamHomeImg": "https://img.sofascore.com/api/v1/team/2951/image",
-        "teamVisitingImg": "https://img.sofascore.com/api/v1/team/2953/image",
-        "link": "https://sportzonline.si/channels/bra/br6.php"
-    },
-    {
-        "popular": 3,
-        "teamHome": "Real Madrid",
-        "teamVisiting": "Mallorca",
-        "timestamp": "1747251000000",
-        "info": "Espanha, LaLiga: Rodada 36",
-        "teamHomeImg": "https://img.sofascore.com/api/v1/team/2829/image",
-        "teamVisitingImg": "https://img.sofascore.com/api/v1/team/2826/image",
-        "link": "https://sportzonline.si/channels/bra/br1.php"
-    },
-    {
-        "popular": 2,
-        "teamHome": "Fluminense",
-        "teamVisiting": "Unión Española",
-        "timestamp": "1747260000000",
-        "info": "Copa Sul-Americana: Rodada 5",
-        "teamHomeImg": "https://img.sofascore.com/api/v1/team/1961/image",
-        "teamVisitingImg": "https://img.sofascore.com/api/v1/team/3153/image",
-        "link": "https://sportzonline.si/channels/bra/br2.php"
-    }
+  {
+    "popular": 1,
+    "teamHome": "Villarreal",
+    "teamVisiting": "Leganés",
+    "timestamp": "1747242000000",
+    "info": "Espanha, LaLiga: Rodada 36",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/2819/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/2845/image",
+    "link": "https://sportzonline.si/channels/bra/br4.php"
+  },
+  {
+    "popular": 2,
+    "teamHome": "Milan",
+    "teamVisiting": "Bologna",
+    "timestamp": "1747249200000",
+    "info": "Itália, Copa Itália: Final",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/2685/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/2692/image",
+    "link": "https://sportzonline.si/channels/bra/br5.php"
+  },
+  {
+    "popular": 0,
+    "teamHome": "Groningen",
+    "teamVisiting": "Groningen",
+    "timestamp": "1747245600000",
+    "info": "Holanda, Eredivisie: Rodada 33",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/2951/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/2953/image",
+    "link": "https://sportzonline.si/channels/bra/br6.php"
+  },
+  {
+    "popular": 3,
+    "teamHome": "Real Madrid",
+    "teamVisiting": "Mallorca",
+    "timestamp": "1747251000000",
+    "info": "Espanha, LaLiga: Rodada 36",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/2829/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/2826/image",
+    "link": "https://sportzonline.si/channels/bra/br1.php"
+  },
+  {
+    "popular": 2,
+    "teamHome": "Fluminense",
+    "teamVisiting": "Unión Española",
+    "timestamp": "1747260000000",
+    "info": "Copa Sul-Americana: Rodada 5",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/1961/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/3153/image",
+    "link": "https://sportzonline.si/channels/bra/br2.php"
+  },
+  {
+    "popular": 2,
+    "teamHome": "Atlético Nacional",
+    "teamVisiting": "Bahia",
+    "timestamp": "1747260000000",
+    "info": "Libertadores: Rodada 5",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/6106/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/1955/image",
+    "link": "https://sportzonline.si/channels/bra/br5.php"
+  },
+  {
+    "popular": 2,
+    "teamHome": "São Paulo",
+    "teamVisiting": "Libertad",
+    "timestamp": "1747269000000",
+    "info": "Libertadores: Rodada 5",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/1981/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/5996/image",
+    "link": "https://sportzonline.si/channels/bra/br3.php"
+  },
+  {
+    "popular": 2,
+    "teamHome": "Botafogo",
+    "teamVisiting": "Estudiantes",
+    "timestamp": "1747269000000",
+    "info": "Libertadores: Rodada 5",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/1958/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/3206/image",
+    "link": "https://sportzonline.si/channels/bra/br2.php"
+  },
+  {
+    "popular": 2,
+    "teamHome": "Racing Club",
+    "teamVisiting": "Colo-Colo",
+    "timestamp": "1747269000000",
+    "info": "Libertadores: Rodada 5",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/3215/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/3155/image",
+    "link": "https://sportzonline.si/channels/bra/br4.php"
+  },
+  {
+    "popular": 2,
+    "teamHome": "Cruzeiro",
+    "teamVisiting": "Palestino",
+    "timestamp": "1747269000000",
+    "info": "Copa Sul-Americana: Rodada 5",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/1954/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/3157/image",
+    "link": "https://sportzonline.si/channels/bra/br1.php"
+  },
+  {
+    "popular": 2,
+    "teamHome": "Fluminense",
+    "teamVisiting": "Unión Española",
+    "timestamp": "1747260000000",
+    "info": "Copa Sul-Americana: Rodada 5",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/1961/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/3153/image",
+    "link": "https://sportzonline.si/channels/bra/br2.php"
+  },
+  {
+    "popular": 2,
+    "teamHome": "Cerro Largo",
+    "teamVisiting": "Vitória",
+    "timestamp": "1747269000000",
+    "info": "Copa Sul-Americana: Rodada 5",
+    "teamHomeImg": "https://img.sofascore.com/api/v1/team/25009/image",
+    "teamVisitingImg": "https://img.sofascore.com/api/v1/team/1962/image",
+    "link": "https://sportzonline.si/channels/bra/br6.php"
+  }
 ]
