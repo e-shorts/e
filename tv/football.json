@@ -1,0 +1,52 @@
+[
+    {
+        "popular": 1,
+        "teamHome": "Villarreal",
+        "teamVisiting": "Leganés",
+        "timestamp": "1747242000000",
+        "info": "Espanha, LaLiga: Rodada 36",
+        "teamHomeImg": "https://img.sofascore.com/api/v1/team/2819/image",
+        "teamVisitingImg": "https://img.sofascore.com/api/v1/team/2845/image",
+        "link": "https://sportzonline.si/channels/bra/br4.php"
+    },
+    {
+        "popular": 2,
+        "teamHome": "Milan",
+        "teamVisiting": "Bologna",
+        "timestamp": "1747249200000",
+        "info": "Itália, Copa Itália: Final",
+        "teamHomeImg": "https://img.sofascore.com/api/v1/team/2685/image",
+        "teamVisitingImg": "https://img.sofascore.com/api/v1/team/2692/image",
+        "link": "https://sportzonline.si/channels/bra/br5.php"
+    },
+    {
+        "popular": 0,
+        "teamHome": "Groningen",
+        "teamVisiting": "Groningen",
+        "timestamp": "1747245600000",
+        "info": "Holanda, Eredivisie: Rodada 33",
+        "teamHomeImg": "https://img.sofascore.com/api/v1/team/2951/image",
+        "teamVisitingImg": "https://img.sofascore.com/api/v1/team/2953/image",
+        "link": "https://sportzonline.si/channels/bra/br6.php"
+    },
+    {
+        "popular": 3,
+        "teamHome": "Real Madrid",
+        "teamVisiting": "Mallorca",
+        "timestamp": "1747251000000",
+        "info": "Espanha, LaLiga: Rodada 36",
+        "teamHomeImg": "https://img.sofascore.com/api/v1/team/2829/image",
+        "teamVisitingImg": "https://img.sofascore.com/api/v1/team/2826/image",
+        "link": "https://sportzonline.si/channels/bra/br1.php"
+    },
+    {
+        "popular": 2,
+        "teamHome": "Fluminense",
+        "teamVisiting": "Unión Española",
+        "timestamp": "1747260000000",
+        "info": "Copa Sul-Americana: Rodada 5",
+        "teamHomeImg": "https://img.sofascore.com/api/v1/team/1961/image",
+        "teamVisitingImg": "https://img.sofascore.com/api/v1/team/3153/image",
+        "link": "https://sportzonline.si/channels/bra/br2.php"
+    }
+]
