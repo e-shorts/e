@@ -1,16 +1,16 @@
 {
   "status": "on",
-  "notice": "NetCine Plus - build-210\n\n*Correções no servidor.\n*Sem anúncios.\nProvavelmente você vai ter alguns problemas na nova atualização, por favor, nos envie um feedback para consertar isso.",
-  "wallpaper": "https://vizertv.in/content/series/background/1280/22636.webp",
+  "notice": "NetCine Plus - build-250\n\n*Correções nos servidores.\n*Sem anúncios.\n*Futebol ao vivo.",
+  "wallpaper": "https://novizer.com/content/series/background/1280/22636.webp",
   "name": "Avatar: O Último Mestre do Ar",
-  "link": "https://vizertv.in/serie/online/avatar-o-ltimo-mestre-do-ar",
+  "link": "https://novizer.com/serie/online/avatar-o-ltimo-mestre-do-ar",
   "description": "LANÇAMENTO POPULAR",
   "season": 0,
   "episode": 0,
-  "image": "https://vizertv.in/content/series/posterPt/342/22636.webp",
+  "image": "https://novizer.com/content/series/posterPt/342/22636.webp",
   "isMovie": false,
   "active": true,
-  "version": 210,
+  "version": 250,
   "minimumVersion": 100,
-  "linkVersion": "https://www.mediafire.com/file/hdwrvlbu4e09diw/NetCine_Plus_-_210.apk/file"
+  "linkVersion": "https://www.mediafire.com/file/6zrenu63u1vgbkz/NetCine_Plus_250.apk/file"
 }
