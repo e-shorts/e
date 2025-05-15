@@ -1,6 +1,6 @@
 {
   "status": "on",
-  "notice": "NetCine Plus - build-250\n\n*Correções nos servidores.\n*Sem anúncios.\n*Futebol ao vivo.",
+  "notice": "NetCine Plus - build-251\n\n*Correções de bugs e melhorias.\n*Correções nos servidores.\n*Sem anúncios.\n*Futebol ao vivo.",
   "wallpaper": "https://novizer.com/content/series/background/1280/22180.webp",
   "name": "The Last of Us",
   "link": "https://novizer.com/serie/online/the-last-of-us",
@@ -10,7 +10,7 @@
   "image": "https://novizer.com/content/series/posterPt/342/22180.webp",
   "isMovie": false,
   "active": true,
-  "version": 250,
+  "version": 300,
   "minimumVersion": 100,
-  "linkVersion": "https://www.mediafire.com/file/6zrenu63u1vgbkz/NetCine_Plus_250.apk/file"
+  "linkVersion": "https://www.mediafire.com/file/l4x6h91z4vyr92p/NetCine_Plus_-_251.apk/file"
 }
