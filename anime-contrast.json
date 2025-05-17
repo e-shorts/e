@@ -8,6 +8,6 @@
   "status": "on",
   "notice": "NetCine Plus - build-250\n\n*Correções de bugs e melhorias.\n*Full HD liberado.\n*Troca automática quando a qualidade não estiver disponível.",
   "version": 10000,
-  "minimumVersion": 1000,
+  "minimumVersion": 10000,
   "linkVersion": "https://www.mediafire.com/file/qabbqdqbkdovz0v/NetCine_Plus_252.apk/file"
 }
